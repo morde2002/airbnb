@@ -209,6 +209,8 @@ export default function ProfilePage() {
                     )}
                   </div>
                 </div>
+
+                
                 <div>
                   <Label htmlFor="bio">About</Label>
                   {isEditing ? (
